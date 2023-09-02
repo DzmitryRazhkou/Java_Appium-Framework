@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5a81a36-490d-40be-9584-fbb8e53c7ad0" name="Changes" comment="" />
+    <list default="true" id="c5a81a36-490d-40be-9584-fbb8e53c7ad0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/po/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/po/constants/Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/po/ios/pages/AlertViewsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/po/ios/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/po/utils/AppiumUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/ios/baseTest/IOSBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/ios/tests/IOSTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/listeners/ExtentReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/listeners/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/listeners/RetryAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/testng_runner/smokeSuiteAndroidRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/testng_runner/smokeSuiteIOSRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObjects/android/basePage/AndroidActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/po/ios/basePage/IOSActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObjects/android/pages/CartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObjects/android/pages/FormPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObjects/android/pages/ProductCatalogue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/pageObjects/ios/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/baseTest/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/android/baseTest/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/test/General_StoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/android/test/General_StoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/pageObjects/android/basePage/AndroidActions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/pageObjects/android/pages/CartPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/pageObjects/android/pages/FormPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/pageObjects/android/pages/ProductCatalogue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/pageObjects/ios/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/baseTest/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/test/General_StoreTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +46,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/pageObjects/android/basePage/AndroidActions.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/pageObjects/android/pages/CartPage.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/pageObjects/android/pages/FormPage.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/test/java/org/example/test/General_StoreTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/po/android/basePage/AndroidActions.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/po/config/config.properties" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/po/ios/basePage/IOSActions.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/po/ios/pages/AlertViewsPage.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/po/utils/AppiumUtils.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/example/android/baseTest/BaseTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/example/android/test/General_StoreTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/example/ios/baseTest/IOSBaseTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/example/ios/tests/IOSTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -36,37 +73,92 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java/com/example/testng_runner",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/example/testng_runner" />
+      <recent name="$PROJECT_DIR$/src/test/java/com/example" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/po" />
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.po.ios.basePage" />
+      <recent name="com.example.ios.tests" />
+      <recent name="com.example.ios.baseTest" />
       <recent name="org.example.test" />
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="General_StoreTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.General_StoreTest (1)">
+    <configuration name="General_StoreTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Java_Appium-Framework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.test.General_StoreTest" />
+          <option name="PATTERN" value="com.example.android.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.test" />
-      <option name="MAIN_CLASS_NAME" value="org.example.test.General_StoreTest" />
+      <option name="PACKAGE_NAME" value="com.example.android.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.android.test.General_StoreTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOSTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Appium-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ios.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.ios.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.ios.tests.IOSTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java/com/example/testng_runner/smokeSuiteAndroidRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Appium-Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/example/testng_runner/smokeSuiteAndroidRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java/com/example/testng_runner/smokeSuiteIOSRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Appium-Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/example/testng_runner/smokeSuiteIOSRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java/com/example/testng_runner/smokeSuiteRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Java_Appium-Framework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/example/testng_runner/smokeSuiteRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -75,7 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.General_StoreTest" />
+        <item itemvalue="TestNG.General_StoreTest (1)" />
+        <item itemvalue="TestNG./Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java/com/example/testng_runner/smokeSuiteAndroidRunner.xml" />
+        <item itemvalue="TestNG./Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java/com/example/testng_runner/smokeSuiteIOSRunner.xml" />
+        <item itemvalue="TestNG./Users/dzmitryrazhkou/Documents/Preparation/Java_Appium-Framework/src/test/java/com/example/testng_runner/smokeSuiteRunner.xml" />
+        <item itemvalue="TestNG.IOSTest" />
       </list>
     </recent_temporary>
   </component>
@@ -89,5 +185,16 @@
       <updated>1691114179090</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/po/utils/AppiumUtils.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

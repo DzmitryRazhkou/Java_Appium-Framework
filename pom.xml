@@ -21,6 +21,10 @@
         <appium>8.5.1</appium>
         <testng>7.8.0</testng>
         <selenium>4.11.0</selenium>
+        <extentreports>2.41.2</extentreports>
+        <slf4j-api>2.0.5</slf4j-api>
+        <log4j-to-slf4j>2.20.0</log4j-to-slf4j>
+        <commons-io>2.13.0</commons-io>
     </properties>
 
     <dependencies>
@@ -46,6 +50,29 @@
             <artifactId>selenium-java</artifactId>
             <version>${selenium}</version>
         </dependency>
+        <dependency>
+            <groupId>com.relevantcodes</groupId>
+            <artifactId>extentreports</artifactId>
+            <version>${extentreports}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${slf4j-api}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-to-slf4j</artifactId>
+            <version>${log4j-to-slf4j}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>${commons-io}</version>
+        </dependency>
+
     </dependencies>
 
     <build>
